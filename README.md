@@ -5,4 +5,6 @@ Bobeye was created for an assignment in a coding class. I named him Bobeye becau
 
 ### Limit the Limitations Project
 This was a project where I expressed my personal take on the restrictions placed on international students studying in the U.S.
+<img width="1366" height="768" alt="Screenshot 2026-10-19 1 27 52 PM" src="https://github.com/user-attachments/assets/ecc3a040-56a4-47c3-88b0-8692b4f83c40" />
+
 <img width="1536" height="864" alt="10-4-2026_20 31 30" src="https://github.com/user-attachments/assets/326fc111-2d91-482f-bbdc-7bfdf71a0c50" />
